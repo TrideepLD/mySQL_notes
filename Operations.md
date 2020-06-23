@@ -1,13 +1,14 @@
-##Order of operations in SQL
+## Order of operations in SQL
 
-###Arithmetic
-
+### Arithmetic
+```
 ()
 * \
 + -
+```
 
-
-###Logic
-
+### Logic
+```
 AND
 OR
+```
